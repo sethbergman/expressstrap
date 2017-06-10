@@ -30,7 +30,7 @@ MIT © [Seth Bergman](sethbergman.com)
 
 [npm-image]: https://badge.fury.io/js/expressstrap.svg
 [npm-url]: https://npmjs.org/package/expressstrap
-[travis-image]: https://travis-ci.org/ejames9/expressstrap.svg?branch=master
-[travis-url]: https://travis-ci.org/ejames9/expressstrap
-[daviddm-image]: https://david-dm.org/ejames9/expressstrap.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/ejames9/expressstrap
+[travis-image]: https://travis-ci.org/sethbergman/expressstrap.svg?branch=master
+[travis-url]: https://travis-ci.org/sethbergman/expressstrap
+[daviddm-image]: https://david-dm.org/sethbergman/expressstrap.svg?theme=shields.io
+[daviddm-url]: https://david-dm.org/sethbergman/expressstrap
