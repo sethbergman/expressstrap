@@ -1,0 +1,14 @@
+/*
+www
+*/
+// process.env.NODE_ENV = 'production';
+
+const app = require('../<%= appName %>'),
+   config = require('../config');
+
+
+app.set('port', config.port)
+
+app.listen(config.port, function() {
+  console.log('Express started on http://localhost:' + app.get('port') + '; Press Ctrl-C to terminate.');
+});

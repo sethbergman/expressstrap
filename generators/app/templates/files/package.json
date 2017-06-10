@@ -1,0 +1,32 @@
+{
+  "name": "<%= appName %>",
+  "version": "1.0.0",
+  "description": "",
+  "main": "<%= appName %>.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./bin/www"
+  },
+  "keywords": [""],
+  "author": "<%= developer %>",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "bootstrap": "^3.3.7",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.14.0",
+    "express-handlebars": "^3.0.0",
+    "express-session": "^1.14.1",
+    "mongoose": "^4.5.10",
+    "serve-favicon": "^2.3.0",
+    "elementsJS": "^0.9.29"
+  },
+  "repository": "",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-livereload": "^3.8.1",
+    "gulp-nodemon": "^2.1.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-sass": "^2.3.2"
+  }
+}
